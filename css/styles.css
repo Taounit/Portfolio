@@ -152,7 +152,8 @@ h3 {
     text-align: start
 }
 .skill-list-ico {
-    background-color: none;
+    background-color: #e9f7ff;
+  border-radius: 50%;
     float:right;
   width: 190px;
   border-radius: 0%;
